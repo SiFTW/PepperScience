@@ -25,7 +25,7 @@ email: C.Pepper@bsms.ac.uk
 address:
   street: Medical Research Building, University of Sussex
   city: Falmer
-  region: East Sussex"
+  region: East Sussex
   postcode: 'BN1 9PX'
   country: United Kingdom
   country_code: UK
@@ -40,27 +40,27 @@ directions: Enter the Medical Research Building (note this is behind the Medical
 contact_links:
   - icon: twitter
     icon_pack: fab
-    name: Chris\'s Twitter
+    name: Chriss Twitter
     link: 'https://twitter.com/ChrisPe10544853'
    - icon: twitter
     icon_pack: fab
-    name: Andrea\'s Twitter
+    name: Andrea Twitter
     link: 'https://twitter.com/andrea_pepper2'
    - icon: university
     icon_pack: fas
-    name: Chris\'s Institution Website
+    name: Chris Institution Website
     link: 'https://www.bsms.ac.uk/about/contact-us/staff/professor-chris-pepper.aspx'
     - icon: university
     icon_pack: fas
-    name: Andrea\'s Institution Website
+    name: Andrea Institution Website
     link: 'https://www.bsms.ac.uk/about/contact-us/staff/professor-andrea-pepper.aspx'
    - icon: orcid
     icon_pack: ai
-    name: Chris\'s ORCID iD
+    name: Chriss ORCID iD
     link: 'https://orcid.org/0000-0003-3603-8839' 
   - icon: orcid
     icon_pack: ai
-    name: Andrea\'s ORCID iD
+    name: Andreas ORCID iD
     link: 'https://orcid.org/0000-0001-9795-1280' 
 # Site header
 
