@@ -38,5 +38,7 @@ design:
 ---
 
 {{% callout note %}}
-Quickly discover relevant content by [filtering publications](./publication/).
+For links to all the recent publications from the team please click on the links below: 
+[Andrea\'s publications](https://profiles.sussex.ac.uk/p414640-andrea-pepper/publications)
+[Chris\'s publications](https://profiles.sussex.ac.uk/p416557-christopher-pepper/publications)
 {{% /callout %}}
