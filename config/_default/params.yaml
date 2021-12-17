@@ -30,8 +30,8 @@ address:
   country: United Kingdom
   country_code: UK
 coordinates:
-  latitude: '50.864028'
-  longitude: '-0.084734'
+  latitude: 50.864028
+  longitude: -0.084734
 directions: Enter the Medical Research Building (note this is behind the Medical Teaching Building) and call reception. We are on the second floor, up the stairs through the security door.
 #office_hours:
 #  - 'Monday 10:00 to 13:00'
