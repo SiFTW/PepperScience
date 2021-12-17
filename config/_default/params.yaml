@@ -40,27 +40,27 @@ directions: Enter the Medical Research Building (note this is behind the Medical
 contact_links:
   - icon: twitter
     icon_pack: fab
-    name: Chriss Twitter
+    name: Twitter
     link: 'https://twitter.com/ChrisPe10544853'
    - icon: twitter
     icon_pack: fab
-    name: Andrea Twitter
+    name: Twitter
     link: 'https://twitter.com/andrea_pepper2'
    - icon: university
     icon_pack: fas
-    name: Chris Institution Website
+    name: Institution Website
     link: 'https://www.bsms.ac.uk/about/contact-us/staff/professor-chris-pepper.aspx'
     - icon: university
     icon_pack: fas
-    name: Andrea Institution Website
+    name: Institution Website
     link: 'https://www.bsms.ac.uk/about/contact-us/staff/professor-andrea-pepper.aspx'
    - icon: orcid
     icon_pack: ai
-    name: Chriss ORCID iD
+    name: ORCID iD
     link: 'https://orcid.org/0000-0003-3603-8839' 
   - icon: orcid
     icon_pack: ai
-    name: Andreas ORCID iD
+    name: ORCID iD
     link: 'https://orcid.org/0000-0001-9795-1280' 
 # Site header
 
