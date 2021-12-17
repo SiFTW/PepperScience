@@ -1,6 +1,6 @@
 ---
-title: "Pepper Lab at ESH 2022"
-date: 2021-12-16T17:07:13+01:00
+title: "Chris Pepper gives a whistle-stop presentation on CLL"
+date: 2021-12-14T17:07:13+01:00
 draft: false
 profile: false 
 ---
