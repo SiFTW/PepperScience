@@ -15,31 +15,31 @@ subtitle = "We are a multi-disciplinary team that combines clinical and scientif
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
 
 [[feature]]
-  icon = "fa-vial"
+  icon = "vial"
   icon_pack = "fas"
   name = "Patients"
   description = "to obtain tumour cells"
   
 [[feature]]
-  icon = "fa-microscope"
+  icon = "microscope"
   icon_pack = "fas"
   name = "Experiments"
   description = "to study tumour cell behaviour and identify novel targets"  
 
 [[feature]]
-  icon = "fa-users"
+  icon = "users"
   icon_pack = "fas"
   name = "Collaborate"
   description = "to design and manufacture novel drug"  
   
 [[feature]]
-  icon = "fa-pills"
+  icon = "pills"
   icon_pack = "fas"
   name = "Drug Development"
   description = "to test novel drugs in cancer cell models"
 
 [[feature]]
-  icon = "fa-hospital-user"
+  icon = "hospital-user"
   icon_pack = "fas"
   name = "Patients"
   description = "the aim of our team is to improve patient prognosis and treatment"
