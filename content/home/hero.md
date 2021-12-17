@@ -55,7 +55,9 @@ title = "Welcome to the Pepper Lab"
  # label = 'We believe a good group is a diverse group, so applications are particularly welcome from those under-represented in computational biology.'
 +++
 
-**Based at Brighton and Sussex Medical School (BSMS), The University of Sussex, UK.**
+**Based at Brighton and Sussex Medical School (BSMS)**
+
+**The University of Sussex, UK.**
 
 A Sussex based research team hunting for novel cancer therapies.
 
