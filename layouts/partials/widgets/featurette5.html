@@ -35,7 +35,7 @@
       {{- end -}}
     </div>
     {{ end }}
-    <h3>{{ .name | markdownify | emojify }}</h3>
+    <h4>{{ .name | markdownify | emojify }}</h4>
     {{ with .description }}<p>{{ . | markdownify | emojify }}</p>{{ end }}
   </div>
   {{ end }}
