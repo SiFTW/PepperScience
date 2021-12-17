@@ -44,23 +44,23 @@ contact_links:
     link: 'https://twitter.com/ChrisPe10544853'
   - icon: twitter
     icon_pack: fab
-    name: Twitter
+    name: Andrea\'s Twitter
     link: 'https://twitter.com/andrea_pepper2'
   - icon: university
     icon_pack: fas
-    name: Institution Website
+    name: Chris\'s BSMS Page
     link: 'https://www.bsms.ac.uk/about/contact-us/staff/professor-chris-pepper.aspx'
   - icon: university
     icon_pack: fas
-    name: Institution Website
+    name: Andreas\'s BSMS Page
     link: 'https://www.bsms.ac.uk/about/contact-us/staff/professor-andrea-pepper.aspx'
   - icon: orcid
     icon_pack: ai
-    name: ORCID iD
+    name: Chris\'s ORCID iD
     link: 'https://orcid.org/0000-0003-3603-8839' 
   - icon: orcid
     icon_pack: ai
-    name: ORCID iD
+    name: Andre\'s ORCID iD
     link: 'https://orcid.org/0000-0001-9795-1280' 
 # Site header
 
@@ -77,7 +77,7 @@ main_menu:
 
 date_format: 'Jan 2, 2006'
 time_format: '3:04 PM'
-address_format: en-us
+address_format: en-uk
 
 # Site features
 
