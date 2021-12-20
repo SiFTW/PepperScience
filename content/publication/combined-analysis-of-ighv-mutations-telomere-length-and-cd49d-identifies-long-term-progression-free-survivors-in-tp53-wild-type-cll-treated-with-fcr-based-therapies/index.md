@@ -39,7 +39,7 @@ abstract: Combined analyses of the pairs of biomarkers A IGHV mutation status
   treatment selection, which would contra-indicate frontline chemoimmunotherapy
   for ~83% of patients.
 draft: false
-featured: false
+featured: true
 image:
   filename: featured
   focal_point: BottomRight
