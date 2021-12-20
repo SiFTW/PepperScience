@@ -20,8 +20,7 @@ twitter: ''
 
 # Contact (edit or remove options as required)
 
-email: C.Pepper@bsms.ac.uk
-email: A.Pepper@bsms.ac.uk
+
 
 #phone: 888 888 88 88
 address:
@@ -39,7 +38,12 @@ directions: Enter the Medical Research Building (note this is behind the Medical
 #  - 'Monday 10:00 to 13:00'
 #  - 'Wednesday 09:00 to 10:00'
 #appointment_url: 'https://calendly.com'
+email: C.Pepper@bsms.ac.uk
 contact_links:
+  - icon: envelope
+    icon_pack: fas
+    name: Email
+    link: 'mailto:A.Pepper@bsms.ac.uk'
   - icon: twitter
     icon_pack: fab
     name: Chris\'s Twitter
