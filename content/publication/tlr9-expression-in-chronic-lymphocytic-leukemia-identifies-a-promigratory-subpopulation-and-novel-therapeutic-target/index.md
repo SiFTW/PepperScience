@@ -11,7 +11,7 @@ authors:
   - Elisabeth Walsby
   - Barnaby Clark
   - Elizabeth H Phillips
-  - Thomas Burley
+  - Tom Burley
   - Simon Mitchell
   - Stephen Devereux
   - Christopher D Fegan
