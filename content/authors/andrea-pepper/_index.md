@@ -43,16 +43,16 @@ education:
   courses:
     - course: Reader in Cancer Biology
       institution: Brighton and Sussex Medical School, University of Sussex
-      year: ""
+      year: "2019-2021"
     - course: Senior Lecturer
       institution: Brighton and Sussex Medical School, University of Sussex
-      year: ""
+      year: "2017-2019"
     - course: Lecturer
       institution: Department of Haematological Medicine, King’s College London
-      year: ""
+      year: "2016-2017"
     - course: Senior Research Fellow
       institution: Department of Haematological Medicine, King’s College London
-      year: ""
+      year: "1999-2016"
     - course: PhD Medicine
       institution: King's College London
       year: 1999
@@ -60,7 +60,7 @@ education:
       institution: Department of Haematology, St. Thomas’s Hospital NHS Trust, London.
         Department of Haematological Medicine and Harris Birthright Centre,
         King’s College NHS Trust London.
-      year: ""
+      year: "1983-1996"
     - course: MSc and Fellowship in Haematology and Blood transfusion
       institution: Institute of Biomedical Science
       year: 1988
