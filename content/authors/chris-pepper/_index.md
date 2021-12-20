@@ -22,7 +22,47 @@ social:
     link: https://www.linkedin.com/in/chris-pepper-321652b
     icon_pack: fab
     icon: linkedin
-superuser: false
+  - display:
+      header: false
+    link: https://www.researchgate.net/profile/Chris-Pepper
+    icon_pack: fab
+    icon: researchgate
+  - display:
+      header: false
+    link: www.twitter.com/ChrisPe10544853
+    icon_pack: fab
+    icon: twitter
+  - display:
+      header: false
+    link: https://orcid.org/0000-0003-3603-8839
+    icon_pack: fab
+    icon: orcid
+organizations:
+  - name: Brighton and Sussex Medical School
+    url: https://www.bsms.ac.uk/about/contact-us/staff/professor-chris-pepper.aspx
+education:
+  courses:
+    - course: Professor of Cancer Biology & Drug Development and Dean of Research
+      institution: Cancer & Genetics School of Medicine, Cardiff University.
+    - course: Reader
+      institution: Cancer & Genetics, School of Medicine, Cardiff University.
+    - course: Senior Lecturer
+      institution: Dept. Haematology, School of Medicine, Cardiff University.
+      year: 5
+    - course: Senior Research Fellow
+      institution: Dept. of Haematology, School of Medicine, Cardiff University.
+      year: ""
+    - course: Clinical Research Scientist
+      institution: Dept. of Haematology, Llandough Hospital
+    - course: "Post-Doctoral Scientist "
+      institution: Department of Pathology, UWCM.
+    - course: PhD Medicinal Chemistry
+      institution: Welsh School of Pharmacy.
+      year: 1993
+    - course: BSc (Hons), Biomedical Science (1989)
+      institution: University of Wales College, Cardiff.
+      year: 1983
+superuser: true
 user_groups:
   - Principal Investigators
 ---
