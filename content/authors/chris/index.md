@@ -2,6 +2,9 @@
 # Display name
 title: Chris Pepper
 
+authors:
+- chris
+
 # Is this the primary user of the site?
 superuser: true
 
