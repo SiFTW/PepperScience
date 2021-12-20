@@ -16,6 +16,29 @@ social:
     link: https://www.linkedin.com/in/andrea-pepper-498a0a116/?originalSubdomain=uk
     icon_pack: fab
     icon: linkedin
+  - display:
+      header: false
+    link: https://www.researchgate.net/profile/Andrea-Pepper
+    icon_pack: fab
+    icon: researchgate
+  - display:
+      header: false
+    link: mailto:A.pepper@BSMS.ac.uk
+    icon_pack: far
+    icon: envelope
+  - display:
+      header: false
+    link: https://orcid.org/0000-0001-9795-1280
+    icon_pack: fab
+    icon: orcid
+  - display:
+      header: false
+    link: http://twitter.com/andrea_pepper2
+    icon_pack: fab
+    icon: twitter
+organizations:
+  - name: Brighton and Sussex Medical School
+    url: https://www.bsms.ac.uk/about/contact-us/staff/professor-andrea-pepper.aspx
 superuser: false
 user_groups:
   - Principal Investigator
