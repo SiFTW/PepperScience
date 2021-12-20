@@ -11,14 +11,10 @@ copyright: '' # Footer text, e.g. '© {year} Me'
 ## LANGUAGE
 ############################
 
-defaultContentLanguage: encustom
+defaultContentLanguage: en
 hasCJKLanguage: false
 defaultContentLanguageInSubdir: false
 removePathAccents: true
-
-Languages.encustom:
-  languageCode  = "encustom"
-  languageName  = "English"
 
 ############################
 ## MODULES
