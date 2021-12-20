@@ -11,7 +11,7 @@ authors:
   - Elisabeth Walsby
   - Barnaby Clark
   - Elizabeth H Phillips
-  - Thomas A Burley
+  - Thomas Burley
   - Simon Mitchell
   - Stephen Devereux
   - Christopher D Fegan
@@ -26,7 +26,7 @@ authors:
   - Tatjana Stankovic
   - Triantafillos Liloglou
   - Chris Pepper
-  - Andrea G S Pepper
+  - Andrea Pepper
 doi: 10.1182/blood.2020005964
 publication: "Blood. 2021 Jun 3;137(22):3064-3078. "
 abstract: Chronic lymphocytic leukemia (CLL) remains incurable despite B-cell
