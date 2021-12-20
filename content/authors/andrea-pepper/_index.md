@@ -39,6 +39,31 @@ social:
 organizations:
   - name: Brighton and Sussex Medical School
     url: https://www.bsms.ac.uk/about/contact-us/staff/professor-andrea-pepper.aspx
+education:
+  courses:
+    - course: Reader in Cancer Biology
+      institution: Brighton and Sussex Medical School, University of Sussex
+      year: ""
+    - course: Senior Lecturer
+      institution: Brighton and Sussex Medical School, University of Sussex
+      year: ""
+    - course: Lecturer
+      institution: Department of Haematological Medicine, King’s College London
+      year: ""
+    - course: Senior Research Fellow
+      institution: Department of Haematological Medicine, King’s College London
+      year: ""
+    - course: PhD Medicine
+      institution: King's College London
+      year: 1999
+    - course: Biomedical and Foetal Medicine Scientist
+      institution: Department of Haematology, St. Thomas’s Hospital NHS Trust, London.
+        Department of Haematological Medicine and Harris Birthright Centre,
+        King’s College NHS Trust London.
+      year: ""
+    - course: MSc and Fellowship in Haematology and Blood transfusion
+      institution: Institute of Biomedical Science
+      year: 1988
 superuser: false
 user_groups:
   - Principal Investigator
