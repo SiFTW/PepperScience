@@ -5,7 +5,7 @@ title: Combined analysis of IGHV mutations, telomere length and CD49d identifies
 publication_types:
   - "0"
 authors:
-  - Andrea G S Pepper
+  - Andrea Pepper
   - Antonella Zucchetto
   - Kevin Norris
   - Erika Tissino
