@@ -29,6 +29,9 @@ social:
     link: https://www.linkedin.com/in/dr-eleni-ladikou-17824355/
     icon_pack: fab
     icon: linkedin
+organizations:
+  - name: Brighton and Sussex Medical School
+    url: https://www.bsms.ac.uk/about/contact-us/staff/dr-eleni-ladikou.aspx
 education:
   courses:
     - course: Master of Research (MRes), Distinction
