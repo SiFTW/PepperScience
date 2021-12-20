@@ -1,31 +1,21 @@
-+++
-
-widget = "people"
-headless = true  # This file represents a page section.
-active = true
-weight = 68
-
-# ... Put Your Section Options Here (title etc.) ...
-title = "Meet the Team"
-
-[content]
-  # Choose which groups/teams of users to display.
-  #   Edit `user_groups` in each user's profile to add them to one or more of these groups.
-  
-  user_groups = ["Principal Investigators",
-                 "Postdoctoral Researchers",
-                 "PhD Students",
-                 "Administration",
-                 "Visitors",
-                 "Alumni"]
-
-[design]
-  # Show user's social networking links? (true/false)
-  show_social= true
-  # Show user's interests? (true/false)
-  show_interests= false
-  # Show user's role?
-  show_role= true
-  # Show user's organizations/affiliations?
-  show_organizations=true
-+++
+---
+widget: people
+widget_id: meet-the-team
+headless: true
+weight: 8
+title: Meet the Team
+active: true
+content:
+  user_groups:
+    - Principal Investigators
+    - Postdoctoral Researchers
+    - PhD Students
+    - Administration
+    - Visitors
+    - Alumni
+design:
+  show_social: true
+  show_interests: false
+  show_role: true
+  show_organizations: true
+---
