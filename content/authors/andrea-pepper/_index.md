@@ -43,16 +43,16 @@ education:
   courses:
     - course: Reader in Cancer Biology
       institution: Brighton and Sussex Medical School, University of Sussex
-      year: "2019-2021"
+      year: 2019-2021
     - course: Senior Lecturer
       institution: Brighton and Sussex Medical School, University of Sussex
-      year: "2017-2019"
+      year: 2017-2019
     - course: Lecturer
       institution: Department of Haematological Medicine, King’s College London
-      year: "2016-2017"
+      year: 2016-2017
     - course: Senior Research Fellow
       institution: Department of Haematological Medicine, King’s College London
-      year: "1999-2016"
+      year: 1999-2016
     - course: PhD Medicine
       institution: King's College London
       year: 1999
@@ -60,12 +60,12 @@ education:
       institution: Department of Haematology, St. Thomas’s Hospital NHS Trust, London.
         Department of Haematological Medicine and Harris Birthright Centre,
         King’s College NHS Trust London.
-      year: "1983-1996"
+      year: 1983-1996
     - course: MSc and Fellowship in Haematology and Blood transfusion
       institution: Institute of Biomedical Science
       year: 1988
 superuser: false
 user_groups:
-  - Principal Investigator
+  - Principal Investigators
 ---
 Andrea is a laboratory-based cancer research scientist working on leukaemia and lymphoma research at Brighton and Sussex Medical School (BSMS). She originally trained as a biomedical scientist at St. Thomas’s hospital in London and then at King’s College Hospital before pursuing a career in research. The focus of Andrea's research has been on the effect of the microenvironment on tumour proliferation and survival. This work has built on the main finding of her PhD, which was that the successful elimination of a tumour requires looking beyond the tumour itself to the effects of the surrounding microenvironment. To date, Andrea has published over 40 peer-reviewed papers and have acquired a national reputation in her field, particularly for her expertise in the immunosuppressive and anti-apoptotic effect of the tumour microenvironment and modelling of tumour cell migration. Andrea has ongoing projects modelling the tumour microenvironment in Acute Myeloid Leukaemia (AML) and Chronic Lymphocytic Leukaemia (CLL). These are being used to study the signalling pathways and critical drivers involved in tumour migration and retention with the aim of identifying and testing novel therapeutic targets.
