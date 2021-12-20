@@ -15,6 +15,8 @@ social:
     link: mailto:E.M.Kennedy@BSMS.ac.uk
     icon_pack: far
     icon: envelope
+organizations:
+  - name: Brighton and Sussex Medical School
 superuser: false
 user_groups:
   - Postdoctoral Researchers
