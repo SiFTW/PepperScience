@@ -44,24 +44,28 @@ education:
   courses:
     - course: Professor of Cancer Biology & Drug Development and Dean of Research
       institution: Cancer & Genetics School of Medicine, Cardiff University.
+      year: "2013-2017"      
     - course: Reader
       institution: Cancer & Genetics, School of Medicine, Cardiff University.
+      year: "2010-2013"      
     - course: Senior Lecturer
       institution: Dept. Haematology, School of Medicine, Cardiff University.
-      year: 5
+      year: "2006-2009"
     - course: Senior Research Fellow
       institution: Dept. of Haematology, School of Medicine, Cardiff University.
-      year: ""
+      year: "2004-2006"
     - course: Clinical Research Scientist
       institution: Dept. of Haematology, Llandough Hospital
-    - course: "Post-Doctoral Scientist "
+      year: "1995-2004"
+    - course: Post-Doctoral Scientist
       institution: Department of Pathology, UWCM.
+      year: "1994-1995"
     - course: PhD Medicinal Chemistry
       institution: Welsh School of Pharmacy.
       year: 1993
-    - course: BSc (Hons), Biomedical Science (1989)
+    - course: BSc (Hons), Biomedical Science
       institution: University of Wales College, Cardiff.
-      year: 1983
+      year: 1989
 superuser: true
 user_groups:
   - Principal Investigators
