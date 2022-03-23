@@ -151,7 +151,7 @@
 # Publication/Event details
 
 - id: abstract
-  translation: Abstract
+  translation: Summary
 
 - id: publication
   translation: Publication
@@ -166,7 +166,7 @@
   translation: Last updated on
 
 - id: event
-  translation: Event
+  translation: News
 
 - id: location
   translation: Location
@@ -212,7 +212,7 @@
   translation: Publications
 
 - id: talks
-  translation: Events
+  translation: News
 
 - id: projects
   translation: Projects
