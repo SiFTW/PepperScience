@@ -6,7 +6,7 @@ abstract: The whole Pepper team attended the UK CLL Forum annual scientific
 location: London, UK
 date: 2022-03-11T09:30:00.000Z
 date_end: 2022-03-11T17:00:00.000Z
-all_day: true
+all_day: false
 event: "UK CLL Forum "
 event_url: https://ukcllforum.org
 publishDate: 2022-03-23T20:00:51.322Z
