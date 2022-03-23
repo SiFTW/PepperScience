@@ -42,6 +42,12 @@ organizations:
     url: https://www.bsms.ac.uk/about/contact-us/staff/professor-chris-pepper.aspx
 education:
   courses:
+    - course: RM Phillips Chair in Experimental Medicine
+      institution: Brighton and Sussex Medical School
+      year: 2022
+    - course: Professor of Cancer Research
+      institution: Brighton and Sussex Medical School
+      year: 2017
     - course: Professor of Cancer Biology & Drug Development and Dean of Research
       institution: Cancer & Genetics School of Medicine, Cardiff University.
       year: 2013-2017
@@ -66,9 +72,6 @@ education:
     - course: BSc (Hons), Biomedical Science
       institution: University of Wales College, Cardiff.
       year: 1989
-    - course: RM Phillips Chair in Experimental Medicine
-      institution: Brighton and Sussex Medical School
-      year: 2022
 superuser: true
 user_groups:
   - Principal Investigators
