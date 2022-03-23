@@ -20,7 +20,6 @@
     <div class="d-md-none space-below"></div>
 
     {{ if .Params.abstract }}
-      <h3>{{ i18n "abstract" }}</h3>
       <p class="pub-abstract">{{ .Params.abstract | markdownify | emojify }}</p>
     {{ else }}
       <br>
