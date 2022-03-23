@@ -8,7 +8,7 @@ location: " Virtual"
 date: 2021-09-17T15:07:13.000Z
 date_end: 2021-09-20T13:08:54.381Z
 all_day: false
-event: " "
+event: "iwCLL 2021 "
 event_url: " "
 publishDate: 2022-03-23T14:07:36.890Z
 ---
