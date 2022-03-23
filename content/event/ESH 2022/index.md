@@ -3,7 +3,7 @@ title: Pepper Lab at ESH 2022
 abstract: "Chris Pepper and the CLL team participated in the European School of
   Haematology (ESH) 2nd Translational Research Conference on Chronic Lymphocytic
   Leukaemia (CLL) meeting in 2022. This was due to have been in Paris, France
-  (18-20 March) but switched to a virtual meeting because of COVID. "
+  (18-20 March) but was switched to a virtual meeting because of COVID-19. "
 location: ESH 2022
 date: 2022-03-18T16:07:13.000Z
 all_day: true
