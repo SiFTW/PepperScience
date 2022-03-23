@@ -29,7 +29,7 @@ social:
     icon: researchgate
   - display:
       header: false
-    link: www.twitter.com/ChrisPe10544853
+    link: www.twitter.com/ChrisPepper64
     icon_pack: fab
     icon: twitter
   - display:
@@ -44,28 +44,31 @@ education:
   courses:
     - course: Professor of Cancer Biology & Drug Development and Dean of Research
       institution: Cancer & Genetics School of Medicine, Cardiff University.
-      year: "2013-2017"      
+      year: 2013-2017
     - course: Reader
       institution: Cancer & Genetics, School of Medicine, Cardiff University.
-      year: "2010-2013"      
+      year: 2010-2013
     - course: Senior Lecturer
       institution: Dept. Haematology, School of Medicine, Cardiff University.
-      year: "2006-2009"
+      year: 2006-2009
     - course: Senior Research Fellow
       institution: Dept. of Haematology, School of Medicine, Cardiff University.
-      year: "2004-2006"
+      year: 2004-2006
     - course: Clinical Research Scientist
       institution: Dept. of Haematology, Llandough Hospital
-      year: "1995-2004"
+      year: 1995-2004
     - course: Post-Doctoral Scientist
       institution: Department of Pathology, UWCM.
-      year: "1994-1995"
+      year: 1994-1995
     - course: PhD Medicinal Chemistry
       institution: Welsh School of Pharmacy.
       year: 1993
     - course: BSc (Hons), Biomedical Science
       institution: University of Wales College, Cardiff.
       year: 1989
+    - course: RM Phillips Chair in Experimental Medicine
+      institution: Brighton and Sussex Medical School
+      year: 2022
 superuser: true
 user_groups:
   - Principal Investigators
