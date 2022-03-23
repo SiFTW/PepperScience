@@ -1,10 +1,20 @@
 ---
-title: "Pepper Lab at ESH 2022"
-date: 2021-12-12T17:07:13+01:00
+abstract: Chris Pepper and Andrea Pepper will be participating in two European
+  School of Haematology (ESH) meetings in 2022.  Chris will be giving a keynote
+  lecture at the 2nd Translational Research Conference on Chronic Lymphocytic
+  Leukaemia (CLL) in Paris, France (18-20 March).
 draft: false
-profile: false 
+profile: false
+title: Pepper Lab at ESH 2022
+location: N/A
+date: 2022-03-18T16:07:13.000Z
+date_end: 2022-03-22T16:34:45.713Z
+all_day: true
+event: N/A
+event_url: N/A
+publishDate: 2022-03-23T16:34:45.792Z
 ---
-Chris Pepper and Andrea Pepper will be participating in two European School of Haematology (ESH) meetings in 2022.  Chris will be giving a keynote lecture at the 2nd Translational Research Conference on Chronic Lymphocytic Leukaemia (CLL) in Paris, France (18-20 March). His talk is entitled ‘CD49d: a biologically relevant molecule and important prognostic marker in CLL’ and the abstract for this can be viewed by clicking on the link below. Emma Kennedy will also be attending this meeting and presenting her latest research findings on the role of Toll Like Receptor 9 in CLL. 
+His talk is entitled ‘CD49d: a biologically relevant molecule and important prognostic marker in CLL’ and the abstract for this can be viewed by clicking on the link below. Emma Kennedy will also be attending this meeting and presenting her latest research findings on the role of Toll Like Receptor 9 in CLL. 
 
 You can view Chris’s abstract here:
 
