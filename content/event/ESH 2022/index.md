@@ -6,7 +6,7 @@ abstract: Chris Pepper and Andrea Pepper will be participating in two European
 draft: false
 profile: false
 title: Pepper Lab at ESH 2022
-location: N/A
+location: ESH 2022
 date: 2022-03-18T16:07:13.000Z
 date_end: 2022-03-22T16:34:45.713Z
 all_day: true
