@@ -30,8 +30,8 @@ image:
   preview_only: false
   caption: Targeted inhibition of non-canonical NF-kB subunits
 summary: >-
-  This study was designed to investigate the potential for targeting the
-  NF- Binducing
+  This study was designed to investigate the potential for targeting the NF-kB
+  inducing
 
   kinase, NIK, in two common B-cell malignancies, chronic lymphocytic leukemia (CLL) and
 
@@ -41,7 +41,7 @@ summary: >-
 
   lymphocytes were significantly more resistant to its cytotoxic effects. Sensitivity to CW15337 was
 
-  associated with the nuclear expression of the NF- B subunit, p52. Importantly, tumor samples from
+  associated with the nuclear expression of the NF-kB subunit, p52. Importantly, tumor samples from
 
   a subset of poor prognosis CLL patients, with mutations in a gene called BIRC3, showed elevated
 
