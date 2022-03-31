@@ -3,7 +3,7 @@ title: Combined analysis of IGHV mutations, telomere length and CD49d identifies
   long-term progression-free survivors in TP53 wild-type CLL treated with
   FCR-based therapies
 publication_types:
-  - "0"
+  - "2"
 authors:
   - Andrea Pepper
   - Antonella Zucchetto
