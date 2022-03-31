@@ -2,7 +2,7 @@
 title: TLR9 expression in chronic lymphocytic leukemia identifies a promigratory
   subpopulation and novel therapeutic target
 publication_types:
-  - "0"
+  - "2"
 authors:
   - Emma Kennedy
   - Eve Coulter
