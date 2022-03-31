@@ -26,7 +26,7 @@ draft: false
 featured: true
 image:
   filename: figure-5.jpg
-  focal_point: Smart
+  focal_point: BOTTOMRIGHT
   preview_only: false
   caption: Targeted inhibition of non-canonical NF-kB subunits
 summary: >-
