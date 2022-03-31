@@ -28,6 +28,7 @@ image:
   filename: figure-5.jpg
   focal_point: Smart
   preview_only: false
+  caption: Targeted inhibition of non-canonical NF-kB subunits
 summary: >-
   This study was designed to investigate the potential for targeting the
   NF- Binducing
