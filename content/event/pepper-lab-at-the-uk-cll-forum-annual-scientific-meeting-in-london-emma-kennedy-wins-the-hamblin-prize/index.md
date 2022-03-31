@@ -21,7 +21,7 @@ Andrea Pepper gave a keynote lecture entitled ‘The role of TLR9 signalling in
 
  At the meeting Emma Kennedy was awarded the Hamblin Prize for the best publication in 2021 by a UK based CLL research team and presented her manuscript entitled ‘TLR9 expression in chronic lymphocytic leukemia identifies a promigratory subpopulation and novel therapeutic target.’ A link to the slides for both talks are below: 
 
-![](screenshot-2022-03-24-at-11.49.03.png "Andrea setting the scene for Emma's star performance!")
+![](andrea.jpg "Andrea setting the scene for Emma's star performance!")
 
 ![](unknown.jpeg "Emma presenting her work on TLR9 ")
 
