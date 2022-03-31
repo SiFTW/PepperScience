@@ -2,7 +2,6 @@
 title: Targeting the Non-Canonical NF-κB Pathway in Chronic Lymphocytic Leukemia
   and Multiple Myeloma
 publication_types:
-  - "0"
   - "2"
 authors:
   - Burley TA
