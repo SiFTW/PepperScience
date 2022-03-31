@@ -23,7 +23,7 @@ doi: 10.3390/cancers14061489
 publication: Cancers. Mar 15; 14(6):1489
 abstract: ""
 draft: false
-featured: false
+featured: true
 image:
   filename: figure-5.jpg
   focal_point: Smart
