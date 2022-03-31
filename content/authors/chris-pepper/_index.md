@@ -28,7 +28,7 @@ social:
     icon_pack: fab
     icon: researchgate
   - display:
-      header: false
+      header: true
     link: www.twitter.com/ChrisPepper64
     icon_pack: fab
     icon: twitter
