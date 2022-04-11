@@ -25,7 +25,7 @@ Andrea Pepper gave a keynote lecture entitled ‘The role of TLR9 signalling in
 
 ![](emma.jpg "Emma presenting her work on TLR9 ")
 
-![Emma with her award surrounded by the Pepper team. On the right is our clinical collaborator and essential team member Dr Rosalynd Johnston and on the left the eminent from the University of Birmingham.  Professor Stankovic is also a collaborator and presented Emma with her prize. ](team-photo-hamblin-prize.jpeg)
+![](team-photo-hamblin-prize.jpeg "Emma with her award surrounded by the Pepper team. On the right is our clinical collaborator and essential team member Dr Rosalynd Johnston and on the left the eminent from the University of Birmingham.  Professor Stankovic is also a collaborator and presented Emma with her prize. ")
 
 You can view Andrea’s slides here:
 
