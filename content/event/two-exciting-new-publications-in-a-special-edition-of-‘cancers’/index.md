@@ -11,6 +11,7 @@ event_url: " https://www.mdpi.com/journal/cancers"
 publishDate: 2022-03-23T20:18:34.796Z
 draft: false
 featured: false
+profile: false
 image:
   filename: featured
   focal_point: Smart
