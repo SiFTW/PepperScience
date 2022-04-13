@@ -21,15 +21,7 @@ authors:
   - Pepper C.
 doi: 10.3390/cancers14061489
 publication: Cancers. Mar 15; 14(6):1489
-abstract: ""
-draft: false
-featured: true
-image:
-  filename: figure-5.jpg
-  focal_point: BOTTOMRIGHT
-  preview_only: false
-  caption: Targeted inhibition of non-canonical NF-kB subunits
-summary: >-
+abstract: >-
   This study was designed to investigate the potential for targeting the NF-kB
   inducing
 
@@ -50,5 +42,13 @@ summary: >-
   CW15337 and ABT-199 (venetoclax) reversed the drug resistance observed when treating tumor cells
 
   with ABT-199 alone. Our study shows the potential for targeting NIK in both CLL and MM.
+draft: false
+featured: true
+image:
+  filename: figure-5.jpg
+  focal_point: BOTTOMRIGHT
+  preview_only: false
+  caption: Targeted inhibition of non-canonical NF-kB subunits
+summary: ""
 date: 2022-03-31T13:01:12.014Z
 ---
