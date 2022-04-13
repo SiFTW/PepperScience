@@ -45,7 +45,7 @@ abstract: >-
 draft: false
 featured: true
 image:
-  filename: figure-5
+  filename: featured.png
   focal_point: BOTTOMRIGHT
   preview_only: false
   caption: Targeted inhibition of non-canonical NF-kB subunits
