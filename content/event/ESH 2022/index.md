@@ -16,8 +16,6 @@ date_end: 2022-03-22T16:34:45.713Z
 ---
 The virtual meeting was a big success and Chris gave a keynote lecture entitled ‘CD49d: a biologically relevant molecule and important prognostic marker in CLL’ and the abstract for this, and his talk, can be viewed by clicking on the links below. Emma Kennedy submitted an abstract entitled ‘Investigating Toll-Like Receptor 9 as a mechanism of resistance to B-cell receptor-targeted therapies in Chronic Lymphocytic Leukaemia.’ This was selected for an oral presentation and both this and her abstract can be viewed on the links below.  
 
-You can view Chris’s talk here:
-
 You can view Emma’s talk here:
 
 {{< youtube MyroDbpPefE >}}
