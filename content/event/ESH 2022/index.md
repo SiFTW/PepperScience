@@ -19,3 +19,5 @@ The virtual meeting was a big success and Chris gave a keynote lecture entitled 
 You can view Chris’s talk here:
 
 You can view Emma’s talk here:
+
+{{< youtube MyroDbpPefE >}}
