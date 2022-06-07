@@ -22,4 +22,4 @@ You can view Emma’s abstract [here.](<http://www.pepper.science/EK EHA-2629-20
 
 You can view Eleni’s abstract [here.](http://www.pepper.science/EL-EHA-2471-v1.pdf)
 
-You can view Kim’s abstract [here.](<http://www.pepper.science/V4 KS EHA AML abstract-final.docx>)
+You can view Kim’s abstract [here.](<http://www.pepper.science/V4 KS EHA AML abstract-final.pdf>)
