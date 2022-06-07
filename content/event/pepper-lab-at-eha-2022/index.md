@@ -18,7 +18,7 @@ image:
 ---
 Emma will be presenting her work on the role of TLR9 signalling in CLL and Eleni and Kim will all be presenting updates of their research projects on the microenvironment and therapeutic targeting of AML. Their abstracts can be viewed by clicking on the links below.
 
-You can view Emma’s abstract [here.](<http://www.pepper.science/EK EHA 2022abstractAP.docx>)
+You can view Emma’s abstract [here.](<http://www.pepper.science/EK EHA-2629-2022preview-5.pdf>)
 
 You can view Eleni’s abstract [here.](http://www.pepper.science/EL-EHA-2471-v1.pdf)
 
