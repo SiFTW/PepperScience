@@ -1,6 +1,6 @@
 ---
 title: Tom Burley
-role: Postdoctoral Researcher
+role: Former Postdoctoral Researcher
 avatar_filename: avatar
 bio: Postdoctoral researcher interested in CLL, transcriptomics, cellular
   signalling and molecular biology.
