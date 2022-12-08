@@ -26,4 +26,4 @@ superuser: false
 user_groups:
   - PhD Students
 ---
-Lauren studied BSc Biomedical Science at the University of Sussex and went on to complete a Master’s degree in Biomedical Science, specialising in Haematology, at Kingston University London. Lauren also has experiencing working as an Associate Practitioner in the NHS. Lauren is now completing her PhD in the Pepper Lab at Brighton and Sussex Medical School, where she is investigating the expression of anti-apoptotic genes and NF-κB components in Chronic Lymphocytic Leukaemia (CLL). This project is funded by a Paul Stanforth PhD scholarship.
+Lauren studied BSc Biomedical Science at the University of Sussex and went on to complete a Master’s degree in Biomedical Science, specialising in Haematology, at Kingston University London. Lauren also has experience working as an Associate Practitioner in the NHS. Lauren is now completing her PhD in the Pepper Lab at Brighton and Sussex Medical School, where she is investigating the expression of anti-apoptotic genes and NF-κB components in Chronic Lymphocytic Leukaemia (CLL). This project is funded by a Paul Stanforth PhD scholarship.
