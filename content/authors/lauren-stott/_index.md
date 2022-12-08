@@ -1,6 +1,7 @@
 ---
 title: Lauren Stott
 avatar_filename: avatar.png
+role: PhD Student
 bio: ""
 interests:
   - Cell Signalling
