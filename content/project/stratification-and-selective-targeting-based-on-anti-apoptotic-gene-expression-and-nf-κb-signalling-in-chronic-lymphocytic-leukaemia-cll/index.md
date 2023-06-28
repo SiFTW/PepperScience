@@ -9,4 +9,4 @@ image:
   focal_point: Smart
   preview_only: false
 ---
-This PhD studentship is funded by a local philanthropist, Paul Stanforth. The project is designed to use NF-kB fingerprinting and link them to the expression of anti-apoptotic proteins to stratify chronic lymphocytic leukaemia (CLL). The ultimate aim is to identify the best drugs for each individual patient.
+This PhD studentship is funded by a local philanthropist, Paul Stanforth. The project is designed to use NF-κB fingerprinting and link them to the expression of anti-apoptotic proteins to stratify chronic lymphocytic leukaemia (CLL). The ultimate aim is to identify the best drugs for each individual patient.
