@@ -16,7 +16,8 @@ publishDate: 2023-06-28T08:49:18.881Z
 draft: false
 featured: false
 image:
-  filename: unknown-6.jpeg
+  filename: ""
   focal_point: Smart
   preview_only: false
 ---
+![](unknown-6.jpeg)
