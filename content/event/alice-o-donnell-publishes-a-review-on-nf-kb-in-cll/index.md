@@ -25,4 +25,10 @@ image:
   focal_point: Smart
   preview_only: false
 ---
+Here's a link to Alice's paper:
+
+<https://www.frontiersin.org/journals/oncology/articles/10.3389/fonc.2023.1169397/full>
+
+
+
 ![](alice-photo.jpeg "Alice O-Donnell with her new review.")
