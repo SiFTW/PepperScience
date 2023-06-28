@@ -12,7 +12,6 @@ content:
     - PhD Students
     - Administration
     - Visitors
-    - Alumni
 design:
   show_social: true
   show_interests: false
