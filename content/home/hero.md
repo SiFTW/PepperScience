@@ -12,8 +12,8 @@ cta:
 widget_id: updated photo
 design:
   background:
-    image: revised-2023-team-photo.jpg
-    image_darken: 0.9
+    image: revised-2023-team-photo.png
+    image_darken: 0.8
     image_size: cover
     image_position: center
     image_parallax: true
