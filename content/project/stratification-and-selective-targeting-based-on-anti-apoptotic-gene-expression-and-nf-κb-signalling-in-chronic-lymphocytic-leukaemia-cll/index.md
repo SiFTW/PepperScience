@@ -10,3 +10,7 @@ image:
   preview_only: false
 ---
 This PhD studentship is funded by a local philanthropist, Paul Stanforth. The project is designed to use NF-κB fingerprinting and link them to the expression of anti-apoptotic proteins to stratify chronic lymphocytic leukaemia (CLL). The ultimate aim is to identify the best drugs for each individual patient.
+
+Primary Supervisor: Andrea Pepper
+
+Co-supervisors: Simon Mitchell ([mitchell.science](www.mitchell.science)) and Chris Pepper
