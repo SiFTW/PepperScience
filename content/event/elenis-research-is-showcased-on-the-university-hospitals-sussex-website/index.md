@@ -20,4 +20,8 @@ image:
   focal_point: Smart
   preview_only: false
 ---
+Here's the article featuring Eleni's research: 
+
+<https://www.uhsussex.nhs.uk/research-and-innovation/about-us/current-research/spotlight-sessions/dr-eleni-ladikou/>
+
 ![](unknown-6.jpeg)
