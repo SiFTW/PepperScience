@@ -2,7 +2,7 @@
 title: Madiha and Peiqin win prizes at the KCL Postgraduate Symposium
 abstract: Two of our visiting students, Madiha Chowdhury and Peiqin Jin won
   prizes at the recent KCL School of Cancer & Pharmaceutical Sciences
-  Postgraduate Symposium. Madiha won the bets presentation prize and Peiqin won
+  Postgraduate Symposium. Madiha won the best presentation prize and Peiqin won
   the best poster prize. Both students are co-supervised by Prof Miraz Rahman
   (KCL) and Chris Pepper (BSMS).
 location: KCL
