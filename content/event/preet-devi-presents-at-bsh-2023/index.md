@@ -17,7 +17,8 @@ publishDate: 2023-06-28T08:37:01.923Z
 draft: false
 featured: false
 image:
-  filename: preet.jpeg
+  filename: ""
   focal_point: Smart
   preview_only: false
 ---
+![](preet.jpeg)
