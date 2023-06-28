@@ -9,3 +9,4 @@ image:
   focal_point: Smart
   preview_only: false
 ---
+This PhD studentship is funded by a local philanthropist, Paul Stanforth. The project is designed to use NF-κB fingerprinting and link them to the expression of anti-apoptotic proteins to stratify diffuse large B cell lymphoma (DLBCL). The ultimate aim is to identify the best drugs for each individual patient.
