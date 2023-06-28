@@ -25,3 +25,4 @@ image:
   focal_point: Smart
   preview_only: false
 ---
+![](alice-photo.jpeg "Alice O-Donnell with her new review.")
