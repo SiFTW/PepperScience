@@ -1,7 +1,7 @@
 ---
 title: Iona Ashworth
 role: PhD Clinical Fellow
-avatar_filename: photo-ia.jpeg
+avatar_filename: avatar.jpg
 social: []
 superuser: false
 user_groups:
