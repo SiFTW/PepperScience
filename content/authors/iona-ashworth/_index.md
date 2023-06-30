@@ -3,6 +3,8 @@ title: Iona Ashworth
 role: PhD Clinical Fellow
 avatar_filename: avatar.png
 social: []
+organizations:
+  - name: Brighton and Sussex Medical School
 superuser: false
 user_groups:
   - PhD Students
