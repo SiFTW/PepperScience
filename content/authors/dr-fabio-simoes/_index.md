@@ -17,6 +17,10 @@ education:
     - course: "PhD "
       institution: "Brighton and Sussex Medical School "
       year: ""
+    - course: "Research Fellow "
+      institution: University of Sussex
+    - course: "Research Fellow "
+      institution: Brighton and Sussex Medical School
 superuser: false
 user_groups:
   - Principal Investigators
