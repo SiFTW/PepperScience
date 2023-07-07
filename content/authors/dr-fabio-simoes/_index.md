@@ -11,16 +11,16 @@ organizations:
 education:
   courses:
     - course: "BSc (Hons), Biomedical Sciences "
-      institution: Queen Mary University of London
+      institution: Queen Mary University of London (2008-2011)
     - course: "MSc, Neuroscience "
-      institution: King’s College London
+      institution: King’s College London (2012-2013)
     - course: "PhD "
-      institution: "Brighton and Sussex Medical School "
+      institution: Brighton and Sussex Medical School (2013-2017)
       year: ""
     - course: "Research Fellow "
-      institution: University of Sussex
+      institution: University of Sussex (2017-2020)
     - course: "Research Fellow "
-      institution: Brighton and Sussex Medical School
+      institution: Brighton and Sussex Medical School (2021-2023)
 superuser: false
 user_groups:
   - Principal Investigators
