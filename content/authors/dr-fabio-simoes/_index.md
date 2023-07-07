@@ -6,6 +6,17 @@ interests:
   - "-\tRemodelling of the tumour microenvironment  -\tHaematological
     malignancies  -\tIn vivo models of disease"
 social: []
+organizations:
+  - name: Brighton and Sussex Medical School
+education:
+  courses:
+    - course: "BSc (Hons), Biomedical Sciences "
+      institution: Queen Mary University of London
+    - course: "MSc, Neuroscience "
+      institution: King’s College London
+    - course: "PhD "
+      institution: "Brighton and Sussex Medical School "
+      year: 1
 superuser: false
 user_groups:
   - Principal Investigators
