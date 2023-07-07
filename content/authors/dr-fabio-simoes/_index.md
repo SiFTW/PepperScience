@@ -1,6 +1,6 @@
 ---
 title: Dr Fabio Simoes
-role: Lecturer in cancer research
+role: Lecturer in Cancer Research
 avatar_filename: avatar
 interests:
   - "-\tRemodelling of the tumour microenvironment  -\tHaematological
