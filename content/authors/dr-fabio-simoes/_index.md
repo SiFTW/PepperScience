@@ -16,7 +16,7 @@ education:
       institution: King’s College London
     - course: "PhD "
       institution: "Brighton and Sussex Medical School "
-      year: 1
+      year: ""
 superuser: false
 user_groups:
   - Principal Investigators
