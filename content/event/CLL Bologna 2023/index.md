@@ -1,7 +1,7 @@
 ---
 title: "Pepper Lab at the 4th Postgraduate CLL conference - Bologna"
 abstract: In November, Chris and Andrea Pepper attended the 4th Postgraduate CLL Conference in Bologna Italy where Chris was an invited speaker. 
-location: London, UK
+location: Bologna, Italy
 date: 2023-12-04T12:10:00.000Z
 date_end: 2023-12-04T12:10:00.000Z
 all_day: false
