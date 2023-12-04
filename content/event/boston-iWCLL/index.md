@@ -2,12 +2,12 @@
 title: Pepper Lab at Boston iwCLL 2023
 abstract: In October, six members of the ‘Pepper team’, including Chris and Andrea, went to the main international meeting for healthcare professionals and researchers working on Chronic Lymphocytic Leukaemia (iwCLL 2023). It was held in Boston, USA, and the programme was outstanding.
 location: Boston, USA
-date: 2022-12-04T18:52:59.932Z
-date_end: 2022-12-04T23:00:00.000Z
+date: 2023-12-04T18:52:59.932Z
+date_end: 2023-12-04T23:00:00.000Z
 all_day: false
 event: "Boston 2023"
 event_url: N/A
-publishDate: 2022-12-04T11:04:59.974Z
+publishDate: 2023-12-04T11:04:59.974Z
 draft: false
 featured: false
 image:
