@@ -19,6 +19,6 @@ Chris’s talk was entitled ‘Trafficking of CLL cells to and from the microenv
 
 It was an excellent meeting and an opportunity to discuss CLL research with many of our collaborators including Dimitar Efremov (senior researcher, Trietse, Italy),  Silvia Deaglio (professor and head of research unit, University of Turin)  and Satyan Gohil (consultant haematologist at university college hospital and university college London). 
 
-![](c-bologna.jpeg "Chris giving his talk")
+![](c-bologna.png "Chris giving his talk")
 
 
