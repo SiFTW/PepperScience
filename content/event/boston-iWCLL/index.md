@@ -37,4 +37,4 @@ The team ended the trip with a visit to Harvard University.
 
 You can view Emma’s abstract [here.](<http://www.pepper.science/Emma Kennedy_iwCLL 2023 Abstract.pdf>)
 
-You can view Iona’s abstract [here.](http://www.pepper.science/iWCLL abstract- I Ashworth.pdf)
+You can view Iona’s abstract [here.](<http://www.pepper.science/iWCLL abstract- I Ashworth.pdf>)
