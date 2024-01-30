@@ -1,5 +1,5 @@
 ---
-title: Three exciting new PhD studentships. 
+title: Three exciting new PhD studentships 
 abstract: We will soon be advertising three exciting new PhD studentships to start on 1st October 2024
 location: Brighton and Sussex Medical School
 date: 2024-01-30T14:46:59.932Z
