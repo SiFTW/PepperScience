@@ -27,7 +27,7 @@ superuser: false
 user_groups:
   - Alumni
 ---
-Tom studied his PhD in Cancer Biology at the Institute of Cancer Research, and obtained his undergraduate degree in Biomedicine from the University of East Anglia. Tom is currently a postdoctoral researcher investigating transcriptional and post-transcriptional changes facilitating chronic lymphocytic leukaemia migration with funding from Blood Cancer UK.
+Tom studied his PhD in Cancer Biology at the Institute of Cancer Research, and obtained his undergraduate degree in Biomedicine from the University of East Anglia. Tom joined us as a post-doctoral researcher in 2019 investigating transcriptional and post-transcriptional changes facilitating chronic lymphocytic leukaemia migration with funding from Blood Cancer UK. Following the completion of his project, Tom moved into the pharmaceutical industry and currently works in medical science liason at Janssen Inc. 
 
 ![](tomImage.png)
 
