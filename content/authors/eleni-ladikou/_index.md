@@ -1,9 +1,7 @@
 ---
 title: Eleni Ladikou
-role: PhD Clinical Fellow
+role: Clinical Academic
 avatar_filename: avatar
-bio: "PhD Clinical Fellow investigating the role of Bone Marrow (BM)
-  microenvironment in Acute Myeloid Leukaemia (AML) "
 interests:
   - Bone Marrow Microenvironment
   - Cell adhesion
@@ -45,9 +43,9 @@ education:
       year: 2013
 superuser: false
 user_groups:
-  - PhD Students
+  - Principal Investigators
 ---
-Eleni studied Medicine at the University of Leicester and completed a Master of research (MRes) in Medical Research at Brighton and Sussex Medical School. She joined the integrated clinical academic pathway and successfully completed Academic Foundation Programme in Translational medicine and Academic Clinical Fellowship in Haematology. Eleni is currently a PhD Clinical Fellow investigating the role of Bone Marrow (BM) microenvironment in Acute Myeloid Leukaemia (AML) which is funded by Sussex Cancer Fund and the British Society of Haematology Early- Stage Research Grant. She also works part-time as a clinical trial sub-investigator in the Clinical Research Facility at Royal Sussex County Hospital.
+Eleni studied Medicine at the University of Leicester and completed a Master of research (MRes) in Medical Research at Brighton and Sussex Medical School. She joined the integrated clinical academic pathway and successfully completed Academic Foundation Programme in Translational medicine and Academic Clinical Fellowship in Haematology. Eleni is currently a Clinical Academic in the team having recently completed her PhD investigating the role of bone marrow (BM) microenvironment in Acute Myeloid Leukaemia (AML). Eleni’s PhD was funded by Sussex Cancer Fund and the British Society of Haematology Early- Stage Research Grant. Eleni is now completing her clinical training at the Royal Sussex County Hospital.  She remains an integral part of the research team and has recently secured funding from the Sussex Cancer Fund for a PhD studentship to work on a follow-on project from her PhD. She will be supervising this as the principal investigator helped by the two co-investigators Prof. Andrea Pepper and Dr Fabio Simoes. 
 
 ![](eleniImage.png)
 
