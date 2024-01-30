@@ -1,7 +1,7 @@
 ---
 title: Eleni and Kim both pass their PhD viva with flying colours.
 abstract: Our clinical academic Dr Eleni Ladikou and PhD student Dr Kim Sharp both submitted their PhDs at the end of 2023. Eleni’s was titled ‘Modelling and targeting of Acute Myeloid Leukaemia (AML) cells in the Bone Marrow (BM) protective niche’ and Kim’s ‘Characterisation and preferential targeting of leukaemic stem cells in Acute Myeloid Leukaemia.’ Eleni’s project was funded by the Sussex Cancer Fund and Kim’s by Nucana.
-location: BSMS, UK
+location: Brighton and Sussex Medical School
 date: 2024-01-30T14:42:59.932Z
 date_end: 2024-01-30T14:42:59.932Z
 all_day: false
