@@ -1,6 +1,6 @@
 ---
 title: Three exciting new PhD studentships 
-abstract: We will soon be advertising three exciting new PhD studentships to start on 1st October 2024
+abstract: We are now advertising three exciting new PhD studentships to start on 1st October 2024 - Deadline 12th April
 location: Brighton and Sussex Medical School
 date: 2024-01-30T14:46:59.932Z
 date_end: 2024-01-30T14:46:59.932Z
@@ -15,6 +15,11 @@ image:
   focal_point: Smart
   preview_only: false
 ---
+Ou PhD studentship applications are now open and live on FindaPhD https://www.findaphd.com/phds/?Keywords=bsms  
+The deadline is the 12th April 2024. 
+
+
+
 1)	‘Characterising and targeting chemo-resistant acute myeloid leukaemia (AML) cells utilising a novel in vitro model of the bone marrow microenvironment’ - Lead by [Dr Eleni Ladikou](https://www.pepper.science/authors/eleni-ladikou/), helped by the two co-investigators [Prof. Andrea Pepper](https://www.pepper.science/authors/andrea-pepper/) and [Dr. Fabio Simoes](https://www.pepper.science/authors/dr-fabio-simoes/).
 
   
