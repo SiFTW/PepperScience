@@ -1,6 +1,6 @@
 ---
 title: Iona and Lauren win the Catovsky prizes at the UKCLL Forum annual scientific day
-abstract:   
+abstract:   _
 gave a fantastic presentation describing how systems biology can be used to predict responses to therapy.  
 location: London
 date: 2024-03-14T11:10:59.932Z
