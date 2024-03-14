@@ -16,7 +16,6 @@ image:
   preview_only: false
 ---
 Ou PhD studentship applications are now open and live on FindaPhD https://www.findaphd.com/phds/?Keywords=bsms  
-The deadline is the 12th April 2024. 
 
 
 
@@ -32,4 +31,4 @@ The deadline is the 12th April 2024.
 
   
 
-Watch this space for further information on how to apply and also on www.findaphd.com
+
