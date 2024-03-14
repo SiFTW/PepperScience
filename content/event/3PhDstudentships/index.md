@@ -1,5 +1,5 @@
 ---
-title: **Applications open** - Three exciting new PhD studentships 
+title: Applications open - Three exciting new PhD studentships 
 abstract: We are now advertising three exciting new PhD studentships to start on 1st October 2024 - Deadline 12th April
 location: Brighton and Sussex Medical School
 date: 2024-01-30T14:46:59.932Z
