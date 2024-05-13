@@ -32,9 +32,18 @@ organizations:
     url: https://www.bsms.ac.uk/about/contact-us/staff/dr-eleni-ladikou.aspx
 education:
   courses:
+    - course: PhD Medicine
+      institution: Brighton and Sussex Medical School
+      year: 2020 - 2023
     - course: Master of Research (MRes), Distinction
       institution: Brighton and Sussex Medical School
       year: 2020
+    - course: Academic Clinical Fellow in Haematology
+      institution: University Hospitals Sussex NHS Foundation Trust
+      year: 2017 - 2020
+    - course: Academic Foundation Program in Translational Medicine
+      institution: University Hospitals of Leicester NHS Trust
+      year: 2015 - 2017
     - course: MBChB Medicine
       institution: University of Leicester
       year: 2007
