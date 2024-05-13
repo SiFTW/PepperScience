@@ -1,6 +1,6 @@
 ---
 title: Eleni Ladikou
-role: Clinical Academic
+role: Honorary Lecturer in Haematology
 avatar_filename: avatar
 interests:
   - Bone Marrow Microenvironment
