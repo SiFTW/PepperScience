@@ -21,6 +21,6 @@ It was a fantastic meeting and all three came back with notebooks full of intere
 
 ![](EmmaCologne.png)
 
-![](Unknown7.jpeg)
-
 After the meeting, they took a few days holiday to see the sights of Cologne and then Amsterdam.
+
+![](Unknown7.jpeg)
