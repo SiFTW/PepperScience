@@ -2,12 +2,12 @@
 title: Emma, Lauren and Iona attend and present at the XIVth international workshop of the German CLL study group.
 abstract: In April 2024 Emma, Lauren and Iona attended the XIVth international workshop of the German CLL study group in Cologne, Germany.
 location: Cologne, Germany
-date: 2024-07-25T13:46:59.932Z
-date_end: 2024-01-30T13:46:59.932Z
+date: 2024-07-25T14:10:59.932Z
+date_end: 2024-07-25T14:10:59.932Z
 all_day: false
 event: "German CLL study group"
 event_url: N/A
-publishDate: 2024-07-25T13:46:59.932Z
+publishDate: 2024-07-25T14:10:59.932Z
 draft: false
 featured: false
 image:
