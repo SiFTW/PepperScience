@@ -1,7 +1,7 @@
 ---
 title: "The Pepper and Mitchell team help the Sussex Cancer Fund raise money and awareness at the South of England show"
 abstract: "The Sussex Cancer Fund (https://www.sussexcancerfund.co.uk) play an important role in supporting our research at BSMS so we were delighted to be invited to help them on their stall at the South of England show 6-8 June 2024."
-location: Cologne, Germany
+location: Sussex
 date: 2024-07-26T14:10:59.932Z
 date_end: 2024-07-26T14:10:59.932Z
 all_day: false
