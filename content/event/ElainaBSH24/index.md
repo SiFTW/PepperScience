@@ -19,4 +19,4 @@ Elaina’s project is an exciting collaboration with Professor Helfrid Hochegger
 
 Elaina also presented her poster at the Sussex Clinical Academic Conference, July 2024, where she won the best poster prize. 
 
-![](Uknown-2.jpeg)
+![](Unknown2.jpeg)
