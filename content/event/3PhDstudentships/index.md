@@ -1,6 +1,6 @@
 ---
 title: PhD applications closed - Three exciting new PhD studentships awarded
-abstract: These studentships have now been filled and we look forward to welcoming Imogen, Abigail and Aleksandra in October.  
+abstract: " "
 location: Brighton and Sussex Medical School
 date: 2024-07-26T14:46:59.932Z
 date_end: 2024-07-26T14:46:59.932Z
@@ -15,3 +15,4 @@ image:
   focal_point: Smart
   preview_only: false
 ---
+These studentships have now been filled and we look forward to welcoming Imogen, Abigail and Aleksandra in October.  
