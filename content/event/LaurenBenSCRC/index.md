@@ -19,6 +19,6 @@ The centre is a groundbreaking collaborative venture enabling researchers, clini
 
 ![](Lauren.png)
 
-Alongside clinical and research talks, there were three outstanding presentations from patients entitled ‘The patient voice’.  These included very moving presentations from our collaborators the artist Markus Taylor and Dr Emma Taylor-Gallardo (see below). We were delighted that Lauren won the best poster presentation alongside Ben Green, who is also a Blood Cancer Research PhD student working with our collaborator Dr John Jones.  
+Alongside clinical and research talks, there were three outstanding presentations from patients entitled ‘The patient voice’.  These included very moving presentations from our collaborators the artist Markus Taylor and Dr Emma Taylor-Gallardo. We were delighted that Lauren won the best poster presentation alongside Ben Green, who is also a Blood Cancer Research PhD student working with our collaborator Dr John Jones.  
 
 ![](SCRC.png)
