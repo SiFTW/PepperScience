@@ -22,8 +22,9 @@ We are looking to recruit a scientist with a background in the field of cancer r
 Project title: Using NF-κB ‘fingerprints’ to identify therapeutic vulnerabilities within subsets of B cell malignancies.
 
 Deadline for applications 24th January 2025
+
 Duration: 2 years 
 
 More information and application: https://jobs.sussex.ac.uk/job/61b21f8f-e80d-4188-9e28-b806d16cfbbf
 
-For informal enquiries [contact us].(https://www.pepper.science/#contact) 
+For informal enquiries [contact us](https://www.pepper.science/#contact) 
