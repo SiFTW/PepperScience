@@ -2,12 +2,12 @@
 title: "Lauren Stott participates in a student exchange to Japan"
 abstract: "In November, Lauren participated in a 4-week student exchange where she visited Mariko Okada’s laboratory at the Institute for Protein Research, Osaka University."
 location: Osaka, Japan
-date: 2024-07-26T14:10:59.932Z
-date_end: 2024-07-26T14:10:59.932Z
+date: 2024-12-12T13:10:59.932Z
+date_end: 2024-12-12T13:10:59.932Z
 all_day: false
 event: "Lauren student exchange Japan"
 event_url: N/A
-publishDate: 2024-07-26T14:10:59.932Z
+publishDate: 2024-12-12T13:10:59.932Z
 draft: false
 featured: false
 image:
