@@ -1,7 +1,7 @@
 ---
 title: Imogen Mould
 role: PhD Student
-avatar_filename: ImogenAvatar.jpg
+avatar_filename: avatar.png
 social: []
 organizations:
   - name: Brighton and Sussex Medical School
