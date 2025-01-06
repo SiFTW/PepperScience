@@ -18,6 +18,6 @@ image:
 
 These awards enable University of Brighton and BSMS PGRs to visit and work alongside research leaders around the world. It is an exciting opportunity for Iona build on her laboratory skill set and get valuable external input into her research project on CLL. Iona said “I am excited by the opportunity to spend up to 6 weeks in the Spring in Turin. I will be working in the lab of the world-renowned CLL expert, Professor Deaglio. I am hoping to learn new techniques and look forward to bringing these new skills back to our lab.”
 
-![](Iona-Turin.png)
+![](IonaTurin.png)
 
 
