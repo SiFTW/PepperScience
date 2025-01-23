@@ -41,7 +41,7 @@ CD34high AML cells that are associated with CAM-DR and relapse.
 
 draft: false
 featured: true
-image:
+image: 
   filename: featured.png
   focal_point: SMART
   preview_only: false
