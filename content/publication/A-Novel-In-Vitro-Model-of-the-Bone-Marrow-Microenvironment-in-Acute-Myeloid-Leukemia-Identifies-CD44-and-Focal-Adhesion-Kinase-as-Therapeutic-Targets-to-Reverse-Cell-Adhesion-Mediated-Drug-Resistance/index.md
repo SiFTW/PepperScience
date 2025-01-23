@@ -22,7 +22,8 @@ authors:
   - Andrea G. S. Pepper
 doi: 10.3390/cancers17010135
 publication: "Cancers. 2025 Jan 3;17(1):135."
-abstract: Adhesion of leukaemic cells in the bone marrow microenvironment (BMME),
+abstract: >-
+Adhesion of leukaemic cells in the bone marrow microenvironment (BMME),
 play an important role in the resistance of AML to current therapeutic agents.
 Although, therapies that disrupt AML cell adherence in the BMME, and release
 them into the less protective peripheral circulation, have been trialled
