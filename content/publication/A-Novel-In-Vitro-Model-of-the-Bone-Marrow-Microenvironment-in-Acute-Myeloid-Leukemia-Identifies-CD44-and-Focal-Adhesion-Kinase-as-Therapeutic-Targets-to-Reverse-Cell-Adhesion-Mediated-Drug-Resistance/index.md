@@ -38,6 +38,7 @@ effects of the AML BMME.
 The key finding was that dual targeting of CD44 and FAK (using anti-CD44 and the clinical
 grade FAK inhibitor defactinib) synergistically inhibit adhesion of the most primitive
 CD34high AML cells that are associated with CAM-DR and relapse.
+
 draft: false
 featured: true
 image:
