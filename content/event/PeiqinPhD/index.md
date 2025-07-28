@@ -2,12 +2,12 @@
 title: "A manuscript based of the findings of Peiqin’s PhD is published by Chris Pepper and his collaborators from King’s College London."
 abstract: "An exciting collaboration between Chris Pepper and the medicinal chemistry team, led by Professor Miraz Rahman at King’s College London, has resulted in a very successful PhD studentship project and publication. "
 location: Brighton, Sussex
-date: 2025-07-28T11:01:59.932Z
-date_end: 2025-07-28T11:01:59.932Z
+date: 2025-07-28T11:23:59.932Z
+date_end: 2025-07-28T11:23:59.932Z
 all_day: false
 event: "Manuscript published based on findings of Peiqin's PhD"
 event_url: N/A
-publishDate: 2025-07-28T11:01:59.932Z
+publishDate: 2025-07-28T11:23:59.932Z
 draft: false
 featured: false
 image:
