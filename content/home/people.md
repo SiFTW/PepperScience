@@ -12,6 +12,7 @@ content:
     - PhD Students
     - Administration
     - Visitors
+    - Visiting Scientists
 design:
   show_social: true
   show_interests: false
