@@ -19,7 +19,7 @@ organizations:
   - name: Brighton and Sussex Medical School
 superuser: false
 user_groups:
-  - Principal Investgators
+  - Principal Investigators
 ---
 Emma completed her PhD at the Brighton and Sussex Medical School, where she obtained experience using a range of laboratory techniques including flow cytometry, cell migration analysis, and western blotting. Additionally, Emma has qualifications in Biology (BSc, University of Sussex) and Molecular Medicine and Cancer (MSc, University of Sheffield) and has experience working as both a Medical Laboratory Assistant and Clinical Trials Administrator for the NHS. Following her PhD Emma successfully completed a  project entitled ‘Overcoming Ibrutinib and Venetoclax resistance in Chronic Lymphocytic Leukaemia’, with funding from the Medical Research Council. She is now a tenured research fellow and has secured funding for a PhD studentship and a Sussex Cancer Fund grant to look at the effects of stress in CLL. 
 
