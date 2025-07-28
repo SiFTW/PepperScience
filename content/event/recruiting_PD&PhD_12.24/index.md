@@ -1,5 +1,5 @@
 ---
-title: We are recruiting - PhD studentship available
+title: CLOSED - We are recruiting - PhD studentship available
 abstract: "Exciting new funded PhD opportunity studying the effect of stress in chronic lymphocytic leukaemia."
 location: Brighton and Sussex Medical School
 date: 2024-12-12T12:46:59.932Z
