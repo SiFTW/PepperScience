@@ -1,5 +1,5 @@
 ---
-title: We are recruiting - New Post Doc position available
+title: CLOSED - We are recruiting - New Post Doc position available
 abstract: "We are really excited to be advertising for an enthusiastic and committed post doc to work on this Blood Cancer UK project"
 location: Brighton and Sussex Medical School
 date: 2024-12-12T12:46:59.932Z
