@@ -1,6 +1,6 @@
 ---
 title: Eleni Ladikou
-role: Honorary Lecturer in Haematology
+role: Assistant Professor in Haematology
 avatar_filename: avatar
 interests:
   - Bone Marrow Microenvironment
