@@ -7,7 +7,7 @@ organizations:
   - name: Brighton and Sussex Medical School
 superuser: false
 user_groups:
-  - PhD Students
+  - PhD Students & Academic Clinical Fellows
 ---
 Iona studied medicine at Cardiff University and completed a Masters of Medical Research (MRes) at Brighton & Sussex Medical School. She joined the integrated academic training pathway and has successfully completed an Academic Clinical Fellowship in Haematology. Iona is now working as a PhD clinical fellow at Brighton & Sussex Medical School, funded through University Hospitals Sussex. She is investigating the role of non-canonical NF-κB signalling in chronic lymphocytic leukaemia (CLL). She also works part-time in the Clinical Trials Unit at the Royal Sussex County Hospital.
 
