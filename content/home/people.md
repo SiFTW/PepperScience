@@ -9,7 +9,7 @@ content:
   user_groups:
     - Principal Investigators
     - Postdoctoral Researchers
-    - PhD Students
+    - PhD Students & Academic Clinical Fellows
     - Administration
     - Visitors
     - Visiting Scientists
