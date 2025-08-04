@@ -16,7 +16,7 @@ image:
   preview_only: false
 ---
 
-![](BCUK.jpg)
+![](BCUK.jpeg)
 
 Emma, Richard, Lauren, Peiqin, Emily and Fabio appeared on the front cover of their recent strategy document.
 
