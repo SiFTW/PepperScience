@@ -13,7 +13,7 @@ organizations:
   - name: Brighton and Sussex Medical School
 superuser: false
 user_groups:
-  - Postdoctoral Researchers
+  - Alumni
 ---
 Kinga completed her PhD at the Semmelweis University, Budapest, where she acquired skills in many different laboratory techniques such western blotting, cell proliferation/migration analysis, PLA assays, flow cytometry, 16S rDNA sequencing, BRET assays, PCR, RT-PCR, confocal microscopy etc. Furthermore, in her time as a PhD student, she also worked in collaboration with Vichem Chemie Ltd. on several cancer targeting projects.
 
