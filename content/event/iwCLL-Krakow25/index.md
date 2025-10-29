@@ -16,12 +16,12 @@ image:
   preview_only: false
 ---
 
-# Overview
+## Overview
 
 The Blood Cancer Research Group from BSMS attended the 2025 International Workshop on Chronic Lymphocytic Leukaemia (iwCLL) held in Kraków, Poland. This prestigious international meeting brought together world-leading researchers and clinicians to discuss advances in the biology and treatment of CLL. The team were honoured to contribute four presentations—one oral and three posters—spanning several complementary themes centred on the targeting of NF-κB and microenvironmental survival pathways in CLL.
 Our work was extremely well received, with Professor Chris Pepper’s abstract being awarded Top Ranked Abstract at the meeting—a tremendous and unexpected recognition of our group’s contribution to the field.
 
-# Oral Presentation
+## Oral Presentation
 
 **Targeted Degradation of NF-κB RelA/p65 by PBD-Based PROTACs as a Novel Therapeutic Strategy in CLL**
 
@@ -31,7 +31,7 @@ NF-κB signalling remains aberrantly active in CLL, driving tumour cell survival
 
 ![](K251.jpg)
 
-# Poster Presentations 
+## Poster Presentations 
 
 **1. Selective NIK Inhibition Overcomes Microenvironment-Mediated Resistance and Synergises with Venetoclax in CLL**
 
@@ -58,13 +58,13 @@ Emma’s poster explored TLR9 signalling as a mechanism of resistance to BTK inh
 
 ![](K254.jpg)
 
-# Welcome Reception 
+## Welcome Reception 
 
 The welcome reception was help at the beautiful Wawel Royal Castle where the team had an excellent opportunity to catch up with all their international collaborators. 
 
 ![](K255.jpg)
 
-# Reflections and Acknowledgements
+## Reflections and Acknowledgements
 
 Attendance at IwCLL 2025 provided the BSMS team with an invaluable opportunity to showcase our ongoing translational research, connect with international collaborators, and gain expert feedback. For our junior researchers, it was an invaluable experience to present their work at a major international meeting—a key step in their academic development.
 We are grateful to the UK CLL Forum for their generous financial support, which enabled our participation in this landmark meeting. The visibility and recognition our group received at IwCLL 2025 would not have been possible without this assistance.
