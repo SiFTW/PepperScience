@@ -1,6 +1,6 @@
 ---
 title: "Members of the team attend the European School of Haematology (ESH) 4th Translational Research Conference: Chronic Lymphocytic Leukaemia. 5th – 7th March 2026, Stockholm Sweden."
-abstract: "Members of the team attend the European School of Haematology (ESH) 4th Translational Research Conference: Chronic Lymphocytic Leukaemia. 5th – 7th March 2026, Stockholm Sweden."
+abstract: "Members of the Blood Cancer Research Group from BSMS attended the 4th translational conference on Chronic Lymphocytic Leukaemia held in Stockholm, Sweden."
 location: Stockholm Sweden
 date: 2026-03-23T11:50:59.932Z
 date_end: 2026-03-23T11:50:59.932Z
