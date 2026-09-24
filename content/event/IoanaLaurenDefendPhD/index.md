@@ -24,5 +24,5 @@ Lauren’s thesis was entitled ‘Stratification and selective targeting based o
 
 We are very proud of them both and we will work with them both over the next few months to publish the contents of both of their theses.
 
-![](Iona&Lauren..jpg "Dr Iona Ashworth and Dr Lauren Stott taking the wheel of a famous Boston Duck Boat while presenting their research at the International Workshop on CLL (iwCLL)")
+![](Iona&Lauren.jpg "Dr Iona Ashworth and Dr Lauren Stott taking the wheel of a famous Boston Duck Boat while presenting their research at the International Workshop on CLL (iwCLL)")
  
