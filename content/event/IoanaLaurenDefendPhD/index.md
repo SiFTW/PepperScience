@@ -2,12 +2,12 @@
 title: "Iona and Lauren both successfully defend their PhD theses with flying colours."
 abstract: "We are delighted that both our clinical academic Dr Iona Ashworth and our PhD student Dr Lauren Stott have successfully defended their PhD theses with very minimal corrections."
 location: Brighton, Sussex
-date: 2026-09-24T11:17:59.932Z
-date_end: 2026-09-24T11:17:59.932Z
+date: 2026-09-24T11:24:59.932Z
+date_end: 2026-09-24T11:24:59.932Z
 all_day: false
 event: "Iona and Lauren Successfully Defend PhDs"
 event_url: N/A
-publishDate: 2026-09-24T11:17:59.932Z
+publishDate: 2026-09-24T11:24:59.932Z
 draft: false
 featured: false
 image:
