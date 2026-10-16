@@ -47,11 +47,11 @@ abstract: >-
 draft: false
 featured: true
 image: 
-  filename: featured.png
+  filename: BloodP.png
   focal_point: SMART
   preview_only: false
-  caption: Targeted inhibition of non-canonical NF-kB subunits
+  caption: 
 summary: ""
-date: 2025-01-23T15:19:12.014Z
+date: 2026-10-16T09:00:00.004Z
 ---
 
