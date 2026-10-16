@@ -24,6 +24,6 @@ This breakthrough would not have been possible without the support of the Medica
 
 In recent years, B-cell receptor (BCR) inhibitors (such as ibrutinib) have transformed the treatment landscape for CLL. However, a significant challenge remains: some patients experience incomplete responses or eventually develop resistance to these drugs, even without acquiring the common BTK genetic mutations typically associated with drug failure. Our team set out to understand why this happens by investigating an alternative signalling route: the Toll-like receptor 9 (TLR9) pathway.
 
-![](EmmaBP.jpg)
+![](EmmaBP.JPG)
  
 
