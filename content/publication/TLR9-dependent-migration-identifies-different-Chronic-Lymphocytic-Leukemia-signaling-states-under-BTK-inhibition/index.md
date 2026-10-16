@@ -45,7 +45,7 @@ image:
 date: 2026-10-16T09:00:00.004Z
 ---
 
-![Graphical summary of TLR9-dependent migration in CLL](featured.png)
+![Graphical summary of TLR9-dependent migration in CLL](BloodP.png)
 
 ## Summary
 
