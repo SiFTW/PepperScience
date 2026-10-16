@@ -16,8 +16,6 @@ image:
   preview_only: false
 ---
 
-We are thrilled to announce that our latest research has been accepted for publication in Blood, the premier, high-impact journal of the American Society of Hematology.
-
 Our paper explores the complex mechanisms behind drug resistance in Chronic Lymphocytic Leukaemia (CLL) and identifies a novel biomarker that could potentially help predict how well patients will respond to standard targeted therapies.
 
 This breakthrough would not have been possible without the support of the Medical Research Council (MRC). The research was driven by an MRC grant held by Profs Andrea Pepper, Chris Pepper, and Simon Mitchell, which funded Dr. Emma Kennedy to perform the majority of the pivotal experimental and analytical work detailed in the paper.
